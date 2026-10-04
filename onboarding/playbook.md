@@ -31,8 +31,8 @@ and continue later. No marketing.
 
 ## 2. A working folder
 
-Ask me to attach a folder for this workspace — the paperclip under the message box, "Share a
-folder". Tell me plainly what it is for: it is where you may read documents I point you at, where
+Ask me to attach a folder for this workspace — the **+** under the message box,
+"Share a folder…". Tell me plainly what it is for: it is where you may read documents I point you at, where
 your todo list lives, and where exports land. Nothing leaves my machine except what goes to the
 model.
 
